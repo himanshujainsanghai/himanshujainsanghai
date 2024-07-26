@@ -1,11 +1,6 @@
-#####                                      Hey! 👋 I'm a MERN Stack Developer from India
-###                                                                                , passionate about creating seamless web experiences
-
-
-
-
-
-
+<h1 align="center">Hey! 👋 I'm a MERN Stack Developer from India</h1>
+<h5>
+  
 <!--
 - 🔭 I’m currently working on new MERN Stack project 
 - 🌱 I’m currently learning MERN Stack , Machine-Learning
@@ -15,5 +10,5 @@
 - ⚡ Fun fact: I love pushing the boundaries of what's possible with code! 
 -->
 
+</h5>
 
-<h1 align="center">Hi there, I'm John Doe 👋</h1>
