@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm a MERN Stack Developer from India</h1>
+<h1 align="center">Hii👋 I'm a Full Stack Developer from India</h1>
 <h3>About Me</h3>
 <p>🔭 I’m currently working as Full Stack Developer.</p>
 <p>👯 I’m looking to collaborate on open-source projects.</p>
